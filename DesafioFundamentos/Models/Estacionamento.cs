@@ -12,6 +12,7 @@ namespace DesafioFundamentos.Models
             this.precoPorHora = precoPorHora;
         }
 
+
         public void AdicionarVeiculo()
         {
             Console.WriteLine("Digite a placa do veículo para estacionar:");
